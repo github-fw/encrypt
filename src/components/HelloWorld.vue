@@ -39,6 +39,8 @@ export default {
 <style scoped>
 textarea {
   resize: none;
+  width: 80%;
+  max-width: 400px;
 }
 .text{
   width: 400px;
